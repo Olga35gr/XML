@@ -1,15 +1,15 @@
-<bug reports>
+<bugreport>
   <enviroment>samsung S21 FE</enviroment>
   <title>Don't work buttom "try now"</title>
   <Steps>
-    <1>Navigate to Capital.com</1>
-    <2>Select any Language</2>
-    <3>In Header select block "Products and services"</3>
-    <4>Select block "Our mobile Apps"</4>
-    <5>Scroll down to the buttom "Try now" and click on it</5>
-    <6>Expected Result</6>
-    <7>Actual Result</7>
-    <8>Link</8>
-    <9>Telegram @nick</9>
+    <step1>Navigate to site</step1>
+    <step2>Select Language</step2>
+    <step3>In Header select block "Products and services"</step3>
+    <step4>Select block "Our mobile Apps"</step4>
+    <step5>Scroll down to the buttom "Try now" and click on it</step5>
+    <step6>Expected Result</step6>
+    <step7>Actual Result</step7>
+    <step8>Link</step8>
+    <step9>Telegram @nick</step9>
   </Steps>
-</bug reports>
+</bugreport>
